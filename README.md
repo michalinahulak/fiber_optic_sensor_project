@@ -15,7 +15,7 @@ To open the project, use the git clone command or download the selected files.
 3. Building a model of neural networks.
 
 ### The repository contains:
-* projekt.py - Google Collab notebooks include data loading, exploration, data preprocessing, machine learning model building and results
+* project.ipynb - Google Collab notebooks include data loading, exploration, data preprocessing, machine learning model building and results
 * Preliminary results.pdf - pdf file include publication of preliminary results 
 * concept of project.pdf - pdf demonstrate my concept of this project in order to convince the client of my idea
 * Recruitment Task - include recruitment task
